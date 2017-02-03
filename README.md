@@ -1,3 +1,7 @@
+Battlecode 2017
+===========================
+All players made for Battlecode 2017 as CertifiedPyro. The final bot is under src/qualify_tour_10
+
 Battlecode Project Scaffold
 ===========================
 
